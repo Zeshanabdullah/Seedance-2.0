@@ -41,11 +41,6 @@ Tips for best results:
 
 The veoaifree.com tool is **web-only** — no documented public API, endpoints, or keys exposed. For developers wanting to integrate Seedance 2.0-style generation programmatically, use third-party providers that proxy or host compatible models (often OpenAI-style REST APIs). Official ByteDance API (via Volcengine/BytePlus) is delayed for global public use.
 
-Popular third-party options (as of Feb 2026):
-- https://seedanceapi.com (direct Seedance 2.0 integration)
-- https://apiyi.com (unified interface, quick setup)
-- https://www.atlascloud.ai (free welcome credits, pay-as-you-go)
-- fal.ai, higgsfield.ai, others emerging
 
 ### Common API Pattern (OpenAI-compatible)
 
